@@ -8,7 +8,7 @@ body {
 header {
     text-align: center;
     padding: 30px;
-    color: #ff4d88;
+    color: #f7eef1;
 }
 
 header img {
@@ -19,7 +19,7 @@ header img {
 }
 
 header h1 {
-    margin: 10px 0 5px;
+    margin: 10px 5px;
 }
 
 header p {
